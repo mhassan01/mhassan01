@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhassan01
 - 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning Data Product
-- 💞️ I’m looking to collaborate on Machine learning project
+- 🌱 I’m currently creating Data Product
+- 💞️ I’m looking to collaborate on MlOps project
 - 📫 mohammed.hassan@talabat.com
 
 <!---
